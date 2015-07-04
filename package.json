@@ -1,0 +1,34 @@
+{
+  "name": "coding-standards",
+  "version": "1.0.0",
+  "description": "60fram.es coding standards.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/60frames/coding-standards.git"
+  },
+  "author": {
+    "name": "60frames",
+    "email": "devs@60fram.es",
+    "url": "http://60fram.es"
+  },
+  "contributors": [{
+    "name": "Matt Derrick",
+    "email": "matt@60fram.es",
+    "url": "http://mattderrick.co.uk"
+  }, {
+    "name": "Richard Scarrott",
+    "email": "rich@60fram.es"
+  }, {
+    "name": "Albert Kang",
+    "email": "albert@60fram.es"
+  }],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/60frames/coding-standards/issues"
+  },
+  "homepage": "https://github.com/60frames/coding-standards#readme"
+}
