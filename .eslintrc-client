@@ -2,7 +2,6 @@
     "extends": "./.eslintrc-default",
     "env": {
         "browser": true,
-        "node": true,
         "es6": true
     },
     "ecmaFeatures": {
