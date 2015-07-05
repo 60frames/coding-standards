@@ -16,13 +16,13 @@
         "no-floating-decimal": 2,
         "no-process-env": 2,
         "no-self-compare": 2,
-        "no-warning-comments": [1, { "terms": ["todo"], "location": "anywhere" }]",
+        "no-warning-comments": [1, { "terms": ["todo"], "location": "anywhere" }],
         "no-throw-literal": 2,
         "radix": 2,
         "vars-on-top": 2,
-        "wrap-iife": 2
+        "wrap-iife": 2,
 
-        // Strict Mode
+        // Variables
         "no-catch-shadow": 2,
         "no-undefined": 2,
 
@@ -32,7 +32,7 @@
         "comma-style": 2,
         "computed-property-spacing": 2,
         "consistent-this": [2, "self"],
-        "func-style": [2, "declaration"]",
+        "func-style": [2, "declaration"],
         "indent": 2,
         "linebreak-style": 2,
         "max-nested-callbacks": [2, 3],
