@@ -15,20 +15,23 @@
     "email": "devs@60fram.es",
     "url": "http://60fram.es"
   },
-  "contributors": [{
-    "name": "Matt Derrick",
-    "email": "matt@60fram.es",
-    "url": "http://mattderrick.co.uk"
-  }, {
-    "name": "Richard Scarrott",
-    "email": "rich@60fram.es"
-  }, {
-    "name": "Albert Kang",
-    "email": "albert@60fram.es"
-  }],
-  "license": "ISC",
+  "contributors": [
+    {
+      "name": "Matt Derrick",
+      "email": "matt@60fram.es",
+      "url": "http://mattderrick.co.uk"
+    },
+    {
+      "name": "Richard Scarrott",
+      "email": "rich@60fram.es"
+    },
+    {
+      "name": "Albert Kang",
+      "email": "albert@60fram.es"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/60frames/coding-standards/issues"
   },
-  "homepage": "https://github.com/60frames/coding-standards#readme"
+  "homepage": "https://github.com/60frames/coding-standards"
 }
