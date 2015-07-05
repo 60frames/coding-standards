@@ -1,0 +1,9 @@
+{
+    "extends": "./.eslintrc-client",
+    "ecmaFeatures": {
+        "jsx": true
+    },
+    "plugins": [
+        "react"
+    ]
+}
