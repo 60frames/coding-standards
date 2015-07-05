@@ -1,5 +1,5 @@
 {
-    "extends": "./.eslintrc-client",
+    "extends": "./.eslintrc-browser",
     "ecmaFeatures": {
         "jsx": true
     },
