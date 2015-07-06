@@ -7,11 +7,11 @@ practices which cannot be enforced through automated tools.
 ```
     .
     ├── src
-    │   ├── .eslintrc /* extends .eslintrc-client || .eslintrc-react */
+    │   ├── .eslintrc /* extends .eslintrc-browser || .eslintrc-react */
     │   └── test
     │       └── .eslintrc /* extends .eslintrc-test */
     └── server
-        ├── .eslintrc /* extends .eslintrc-server */
+        ├── .eslintrc /* extends .eslintrc-node */
         └── test
             └── .eslintrc /* extends .eslintrc-test */
 ```

@@ -33,5 +33,9 @@
   "bugs": {
     "url": "https://github.com/60frames/coding-standards/issues"
   },
-  "homepage": "https://github.com/60frames/coding-standards"
+  "homepage": "https://github.com/60frames/coding-standards",
+  "peerDependencies": {
+    "eslint": null,
+    "eslint-plugin-react": null
+  }
 }
