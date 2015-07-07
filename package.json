@@ -1,6 +1,6 @@
 {
   "name": "coding-standards",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "60fram.es coding standards.",
   "main": "",
   "scripts": {
@@ -33,9 +33,5 @@
   "bugs": {
     "url": "https://github.com/60frames/coding-standards/issues"
   },
-  "homepage": "https://github.com/60frames/coding-standards",
-  "peerDependencies": {
-    "eslint": null,
-    "eslint-plugin-react": null
-  }
+  "homepage": "https://github.com/60frames/coding-standards"
 }
