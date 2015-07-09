@@ -3,7 +3,7 @@
 This README will eventually outline coding standards and preferred best
 practices which cannot be enforced through automated tools.
 
-## .eslintrc usage example
+## .eslintrc example usage
 ```
     .
     ├── src
