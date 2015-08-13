@@ -19,6 +19,10 @@
         "react/react-in-jsx-scope": 2,
         "react/self-closing-comp": 2,
         "react/sort-comp": 2,
-        "react/wrap-multilines": 2
+        "react/wrap-multilines": 2,
+
+        // no-extra-parens and react/wrap-multilines cannot coexist
+        // https://github.com/yannickcr/eslint-plugin-react/issues/86
+        "no-extra-parens": [2, "functions"]
     }
 }
