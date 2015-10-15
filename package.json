@@ -30,6 +30,7 @@
       "email": "albert@60fram.es"
     }
   ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/60frames/coding-standards/issues"
   },
