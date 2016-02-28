@@ -3,7 +3,6 @@
         // Possible Errors
         "no-console": 2,
         "no-extra-parens": 2,
-        "valid-jsdoc": 2,
         "no-unexpected-multiline": 2,
 
         // Best Practices
